@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  <strong>A macro for the terminal game Py++</strong>
+  <strong>A macro for the terminal game Py++ 
+  MUST BE REWRITE 1 OR IT WILL NOT WORK</strong>
 </div>
 
 
