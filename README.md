@@ -9,9 +9,9 @@
 
 <div align="center">
   
-![GitHub License](https://img.shields.io/github/license/rocklake/Pypp-Macro)
-![GitHub forks](https://img.shields.io/github/forks/rocklake/Pypp-macro)
-![GitHub Repo stars](https://img.shields.io/github/stars/rocklake/Pypp-macro)
+![GitHub License](https://img.shields.io/github/license/numycode/chrome-macro)
+![GitHub forks](https://img.shields.io/github/forks/numycode/chrome-macro)
+![GitHub Repo stars](https://img.shields.io/github/stars/numycode/chrome-macro)
 
 </div>
 
