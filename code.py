@@ -73,7 +73,7 @@ while True:
             slowdown("l")
 
             layout.write(link)
-            kbd.press(keycode.ENTER)
+            kbd.press(keycode.RETURN)
             kbd.release_all()
             slowdown("l")
 
