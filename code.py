@@ -9,8 +9,8 @@ import random
 
 # config start
 start_delay = 10
-# Make sure to set this link! This is what will be typed into the adress bar.
-link = "Change me!"
+# Make sure to set this link! This is what will be typed into the adress bar. Requires a \n at the end.
+link = "Change me!\n"
 # Options are "off", "low", "min", "max". Change to a higher setting if on a slower computer.
 slowdown_level = "low"
 # config end
@@ -72,7 +72,7 @@ while True:
             kbd.release_all()
             slowdown("l")
 
-            layout.write(link, "\n")
+            layout.write(link)
             slowdown("l")
 
 
