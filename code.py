@@ -8,7 +8,7 @@ from board import *
 import random
 
 # config start
-start_delay = 0
+start_delay = 5
 # Make sure to set this link! This is what will be typed into the adress bar.
 link = "Change me!"
 # Options are "off", "low", "min", "max". Change to a higher setting if on a slower computer.
