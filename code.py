@@ -55,7 +55,7 @@ def slowdown(level1):
             pass
 cap = kbd.led_on(Keyboard.LED_CAPS_LOCK)
 while cap == True:
-    cap = kbd.led_on(Keyboard.LED_CAPS_LOCK)
+    exit()
 while True:
     time.sleep(start_delay)
     try:
